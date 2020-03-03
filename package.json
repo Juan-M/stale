@@ -20,7 +20,6 @@
     "@hapi/joi": "^15.0.0",
     "newrelic": "^5.2.1",
     "probot": "9.9.6",
-    "probot-config": "^1.1.0",
     "probot-scheduler": "2.0.0-beta.1"
   },
   "engines": {
